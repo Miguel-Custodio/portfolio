@@ -1,0 +1,6 @@
+{
+  "editor.fomatOnsave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
